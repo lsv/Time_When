@@ -1,0 +1,3 @@
+A class to get those nice "just a moment ago", "1 day ago", "6 hours ago" or "in about 2 months", instead of a simple timestamp.
+
+This can also be reconfigured for own use.
